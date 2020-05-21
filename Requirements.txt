@@ -1,0 +1,7 @@
+TensorFlow
+Protobuf
+jupyter notebook
+pillow 
+lxml
+Cython
+matplotlib
